@@ -1,0 +1,12 @@
+{
+    "name": "TODO",
+    "version": "0.1.0",
+    "dependencies": {
+        "express": "~4.11.0",
+        "ejs": "~2.1.4",
+        "cookie-session": "~1.1.0",
+        "body-parser": "~1.10.1"
+    },
+    "author": "aswanthkoleri <aswanth9495@gmail.com>",
+    "description": "Yo ! 8-) its a TODO List !!"
+}
