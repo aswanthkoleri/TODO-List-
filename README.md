@@ -1,8 +1,8 @@
 # TODO-List
-==========
+-----
 This is simple todo list webapp created uisng NodeJS.It is created as a part of my learning in NodeJS so it is kept simple.
 
-#How it works 
+# How it works 
 -----
 The working of this todo list is simple !.Only the basic operations can be done using this app.
 You can :- 
@@ -18,7 +18,7 @@ For running the app follow these steps :-
 - Now open the Browser and goto the address `localhost:8080`
 - Thats it You are done :smile:
 
-##Dependencies 
+## Dependencies 
 ------
 - express
 - ejs
