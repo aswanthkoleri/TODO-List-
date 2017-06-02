@@ -14,9 +14,11 @@ Pretty Basic huh ! :smile:
 For running the app follow these steps :- 
 - Extract the cloned repo and in the console enter the folder containing the app .
 - Install the Dependencies uing `npm install`
-- In the console type `node Todo_app`
+- In the console type `node Todo_app.js`
 - Now open the Browser and goto the address `localhost:8080`
 - Thats it You are done :smile:
+## Screenshots
+
 
 ## Dependencies 
 ------
